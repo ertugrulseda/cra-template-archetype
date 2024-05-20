@@ -1,6 +1,6 @@
 {
   "name": "cra-template-archetype",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Seda Ertuğrul",
   "description": "deneme versiyonu",
   "main": "template.json",
@@ -8,10 +8,8 @@
     "cra-template"
   ],
   "files": [
-    "archetype"
+    "template"
   ],
-  "scripts": {
-    "postinstall": "cp -r archetype ."
-  },
-  "license": "ISC"
+
+  "license": "MIT"
 }
