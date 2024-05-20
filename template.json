@@ -1,10 +1,8 @@
 {
   "package": {
-    "dependencies": {
-
-    },
+    "dependencies": {},
     "scripts": {
-      "postinstall": "cp -r template ."
+     "say-hi": "echo 'hi'"
     }
   }
 }

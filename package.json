@@ -1,8 +1,6 @@
 {
   "name": "cra-template-archetype",
-  "version": "1.0.4",
-  "author": "Seda Ertuğrul",
-  "description": "deneme versiyonu",
+  "version": "1.0.5",
   "main": "template.json",
   "keywords": [
     "cra-template"
@@ -10,6 +8,5 @@
   "files": [
     "template"
   ],
-
   "license": "MIT"
 }
