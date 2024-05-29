@@ -1,6 +1,6 @@
 {
   "name": "cra-template-archetype",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "main": "template.json",
   "keywords": [
     "cra-template"
